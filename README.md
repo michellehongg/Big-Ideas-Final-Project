@@ -1,4 +1,4 @@
-# Big-Ideas-Final-Project
+# Big Ideas Final Project
 Which Neighborhood is the Best to Raise a Child
 (bc children are our future<3)
 
