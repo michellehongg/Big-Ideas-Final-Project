@@ -1,7 +1,7 @@
 # Big Ideas Final Project
 Which Neighborhood is the Best to Raise a Child ... (bc children are our future<3)
 
-## Team Members:
+# Team Members:
 * Michelle Hong: mih196@pitt.edu
 * Rachel Soubier: rcs88@pitt.edu
 
@@ -13,7 +13,7 @@ https://data.wprdc.org/dataset/city-traffic-signs
 3) Neighborhood with the least amount of trees (Michelle Hong)
 https://data.wprdc.org/dataset/allegheny-county-wooded-area-boundaries
 
-## Canvas Group:
+# Canvas Group:
 Final Project Group 48
 
 # Summary
