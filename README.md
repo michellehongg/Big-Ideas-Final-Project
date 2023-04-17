@@ -9,10 +9,19 @@ Which Neighborhood is the Best to Raise a Child
 
 # Data Sets:
 1) Neighborhood with the most amount of playgrounds
+https://data.wprdc.org/dataset/playgrounds
 2) Neighborhood with the most amount of traffic signs
+https://data.wprdc.org/dataset/city-traffic-signs
 3) Neighborhood with the least amount of trees
+https://data.wprdc.org/dataset/allegheny-county-wooded-area-boundaries
 
 ## Canvas Group:
 Final Project Group 48
+
+# Summary
+We worked as partners to determine which neighborhood was the best the raise a child in by utilizing pandas, 
+numpy, and matplotlib. We decided that we would look to see which neighborhoods had the most people attending 
+playgrounds for the social aspect, traffic signs to gauge how cautious drivers would be forced to be for safety,
+and the number of trees to see if kidnappers would have more hiding spots if they were to abduct a child.
 
 
