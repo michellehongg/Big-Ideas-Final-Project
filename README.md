@@ -8,11 +8,11 @@ Which Neighborhood is the Best to Raise a Child
 * Rachel Soubier: rcs88@pitt.edu
 
 # Data Sets:
-1) Neighborhood with the most amount of playgrounds
+1) Neighborhood with the most amount of playgrounds (Rachel Soubier)
 https://data.wprdc.org/dataset/playgrounds
-2) Neighborhood with the most amount of traffic signs
+2) Neighborhood with the most amount of traffic signs (Michelle Hong)
 https://data.wprdc.org/dataset/city-traffic-signs
-3) Neighborhood with the least amount of trees
+3) Neighborhood with the least amount of trees (Michelle Hong)
 https://data.wprdc.org/dataset/allegheny-county-wooded-area-boundaries
 
 ## Canvas Group:
